@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "426673334331",
+    "firebase_url": "https://livelocationsharing-30c31-default-rtdb.firebaseio.com",
+    "project_id": "livelocationsharing-30c31",
+    "storage_bucket": "livelocationsharing-30c31.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:426673334331:android:bd8419564ce97a5392d41e",
+        "android_client_info": {
+          "package_name": "com.example.web_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAr4RiY-L1ZeU0JLBd-UijQUCXp1gegofU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
